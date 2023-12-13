@@ -1,0 +1,13 @@
+welcome back to code with SJM
+-----------------------------
+
+Today I will show you how to Import & Export Excel File in Laravel 10.
+
+Requirements
+------------
+- a Laravel 10 project.
+- maatwebsite package -- 
+install maatwebsite package with the below command
+composer require maatwebsite/excel --ignore-platform-reqs
+
+
